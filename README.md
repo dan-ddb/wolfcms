@@ -1,5 +1,9 @@
 # WOLF CMS
 
+## Reason for this fork
+
+The Wolf CMS core maintainer has decided to sunset the project or find a replacement maintainer. I am keeping a copy of the Wolf CMS as is at the time of this happening so that in the event the next contributors change the project in an undesireable way there is a 'clean' copy.
+
 ## About Wolf CMS
 
 [![Current Version](http://img.shields.io/badge/wolfcms-v0.8.3.1-blue.svg)](http://www.wolfcms.org/download.html)
